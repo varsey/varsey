@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 As a MLOps Engineer, I adapt and deploy machine learning models for banking risk management in an Openshift cluster.
-I have over two years of experience in developing and maintaining containerized ML-based web services using Python, pandas, numpy, scikit-learn, Kafka, ClickHouse, PostgreSQL, REST API, and Docker.
+- 🌱 As a Python Developer, I adapt and deploy machine learning models in an Openshift cluster for data analytics business.
+I have over three years of experience in developing and maintaining containerized ML-based web services using Python, pandas, numpy, scikit-learn, Kafka, ClickHouse, PostgreSQL, REST API, and Docker.
 
 - 🪻 I am passionate about learning new skills and applying them to solve real-world problems. I enjoy working with data, NLP, and simulation tools, and I am always looking for new challenges and opportunities to grow as a professional.
 
