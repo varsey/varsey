@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/varsey/varsekonFoam/commit/ae2213c89c70143cb074c6ec9347f7ac778a4039\"><strong>a</strong>e2213c89c70143cb074c6ec9347f7ac778a4039</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/varsey/mnist-digit-recognizer/commit/aba9199a6f39ce396ea0da17d5b0ee5dc7cbc299\"><strong>ab</strong>a9199a6f39ce396ea0da17d5b0ee5dc7cbc299</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/7c18a0fb42dff5c272c98fb592fa6facae607401\">7c18a0f</a>: chore -  use sample data for demo",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/contacts-in-item-serving/commit/ef9f04e0805132bb1419b7d3076658a02f852409\">ef9f04e</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"feat\".",
+    "body": "My favorite commit message words are:\n\n1. feat (used 119 times)\n2. add (used 85 times)\n3. readme.md (used 69 times)\n4. update (used 51 times)\n5. upd (used 42 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/inno-hack-24-ml-cious/commit/6c75cc0e9b9a73e96a90c9c9573f7fe66df5b8a8\">6c75cc0</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/contractors-in-email-attach/commit/136498a9bfe6ac7caa26c2745d6bcae394c42659\">136498a</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/varsey/commit/ed75c82a9664567e8a5c82dfa5ea1068a01cdd4c\">ed75c82</a>\n- <a href=\"https://github.com/varsey/varsey/commit/35a38159f7384804db81c1607268fa38855ebf6d\">35a3815</a>\n- <a href=\"https://github.com/varsey/hotel-room-classification/commit/209735b1190edb014bc8cf40305cb216e65a745c\">209735b</a>\n- <a href=\"https://github.com/varsey/inno-hack-24-ml-cious/commit/4ef1ad9e844c7b627dcf11c575b5bf76e17b3d85\">4ef1ad9</a>\n- <a href=\"https://github.com/varsey/inno-hack-24-ml-cious/commit/f523fb9cda2055e3ea7753b8bfe72989b80d8bcb\">f523fb9</a>\n- <a href=\"https://github.com/varsey/inno-hack-24-ml-cious/commit/4e804815cc1373b03976c6ad190622267e93fecc\">4e80481</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/dbead933bdf72a23111e5bcafaf8c40375771713\">dbead93</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/337a0ed7b9138c7dff638fe666169a737f3d7ef2\">337a0ed</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/b7ef5d9f4df63594316c86a6f5fd2271e0d4ade0\">b7ef5d9</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/778c04bcfa9f11680feecd9d9f81b435e0147fae\">778c04b</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/5e5f189f89cd987feb07429952ecc3a88ab8fc7f\">5e5f189</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/96b2d4a2c94a97477a7644ff9017290aa8de3459\">96b2d4a</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/varsey/contractors-in-email-attach/commit/054c58ec51ef7e5c9a4ee15e395e3b1d3acd56a9\">054c58e</a>\n- <a href=\"https://github.com/varsey/contractors-in-email-attach/commit/32f2d12ed90ced3355b98c6736ea9c38f5786e22\">32f2d12</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/ddd2ae89f82759641ae489794e603fc24c7b0790\">ddd2ae8</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/814ad24f25e551052799e828219b6756478870a0\">814ad24</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/14b4b3d35a240f1c674633ae496deb038b092fed\">14b4b3d</a>\n- <a href=\"https://github.com/varsey/recommend-by-behaviour/commit/d0a10f101dbf72b4ad7f6f246f7dec955f73dc77\">d0a10f1</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
